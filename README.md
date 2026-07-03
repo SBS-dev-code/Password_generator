@@ -21,4 +21,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - 01.07.2026 (Test_version): Test version of application release. Base password generation logic and dark UI layout finalized.
 
 ## License and Copyright
-Copyright (c) 2026 Shilov Boris (7B). All rights reserved.
+Copyright (c) 2026 SBS-dev-code. All rights reserved.
